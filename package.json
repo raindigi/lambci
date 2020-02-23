@@ -23,7 +23,7 @@
   "dependencies": {
     "ansi_up": "^3.0.0",
     "nave": "^2.2.3",
-    "neo-async": "^2.6.0"
+    "neo-async": "^2.6.1"
   },
   "devDependencies": {
     "aws-sdk": "^2.382.0",
